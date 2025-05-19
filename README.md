@@ -2,7 +2,7 @@
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51.gif" alt="Alt Text"/>
 </div>
 <div align="center">
-    #<span style="color: #FFD700;">###Hi, I'm <a href="https://github.com/bread-thief" target="_blank">Bread Thief!</a> 👋</span>
+    #<span style="color: #FFD700;">Hi, I'm <a href="https://github.com/bread-thief" target="_blank">Bread Thief!</a> 👋</span>
 </div>
 
 <div align="center">
