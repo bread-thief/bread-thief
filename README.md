@@ -1,4 +1,4 @@
-<img scr = "https://gifs.ru/gifs/eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51"/>
+![Alt Text](https://gifs.ru/gifs/eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51)
 
 # <span style="color: #FFD700;">Hi, I'm [Bread Thief!](https://github.com/bread-thief) 👋</span>
 
