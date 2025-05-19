@@ -75,8 +75,8 @@
 </div>
 
 <div align="center">
-    Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions. 🫓
+    🫓 Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions. 🫓
 </div>
 <div align="center">
-    <span style="color: #D2B48C;">🍞 Happy Coding! 🍞🎉</span>
+    <span style="color: #D2B48C;">🍞 Happy Coding! 🍞</span>
 </div>
