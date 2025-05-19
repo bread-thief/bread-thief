@@ -1,11 +1,8 @@
 <div align="center">
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51.gif" alt="Alt Text"/>
+    # <span style="color: #FFD700;">Hi, I'm [Bread Thief!](https://github.com/bread-thief) 👋</span>
+    <span style="color: #F5DEB3;">🍞</span> | <span style="color: #8B4513;">🥖</span> | <span style="color: #5D4037;">🫓</span>
 </div>
-
-# <span style="color: #FFD700;">Hi, I'm [Bread Thief!](https://github.com/bread-thief) 👋</span>
-
-<span style="color: #F5DEB3;">🍞</span> | <span style="color: #8B4513;">🥖</span> | <span style="color: #5D4037;">🫓</span>
-
 I'm a passionate developer who loves to code and share my projects with the world. My nickname `bread-thief` reflects my love for bread and programming - I'm always ready to "steal" some inspiration to create something new and delicious!
 
 ## <span style="color: #FFD700;">My Projects</span>
@@ -36,6 +33,7 @@ You can find me here:
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>  
 
-Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions.
-
-<span style="color: #D2B48C;">🍞 Happy Coding! 🍞</span>
+<div align="center">
+    Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions.
+    <span style="color: #D2B48C;">🍞 Happy Coding! 🍞</span>
+</div>
