@@ -31,9 +31,9 @@
 
 ## <span style="color: #8B4513;">Статистика</span>
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=bread-thief&show_icons=true&bg_color=000000&text_color=FFD700&title_color=FFD700&icon_color=F5DEB3)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=bread-thief&show_icons=true&bg_color=000000&text_color=5D4037&title_color=5D4037&icon_color=F5DEB3)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bread-thief&layout=compact&bg_color=000000&text_color=FFD700&title_color=FFD700)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bread-thief&layout=compact&bg_color=000000&text_color=5D4037&title_color=5D4037)
 
 ## <span style="color: #5D4037;">Технологии и инструменты</span>
 
