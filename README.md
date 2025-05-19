@@ -37,7 +37,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Bread_Thief_dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter"/>
+    <img src="https://img.icons8.com/?size=256&id=phOKFKYpe00C&format=png" width="40" height="40" alt="Twitter"/>
 </a>
 
 </div>
