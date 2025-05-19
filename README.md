@@ -27,15 +27,13 @@
 
 ## <div align="center"><span style="color: #F5DEB3;">How to Contact Me</span></div>
 
-<div align="center">
-    You can find me here:
-</div>
-<div align="center">
 
+<div align="center">
 <a href="mailto:bread.thief.dev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/>
 </a>
-
+&nbsp
+&nbsp
 <a href="https://twitter.com/Bread_Thief_dev" target="_blank">
     <img src="https://img.icons8.com/?size=256&id=phOKFKYpe00C&format=png" width="40" height="40" alt="Twitter"/>
 </a>
@@ -73,6 +71,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> &nbsp;
 </div>
+&nbsp
 &nbsp
 &nbsp
 <div align="center">
