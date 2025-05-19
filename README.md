@@ -16,7 +16,7 @@ Here are some of my projects that you might be interested in:
 
 You can find me here:
 
-- 📧 Email: bread-thief@example.com
+- 📧 Email: bread.thief.dev@gmail.com
 - 🐦 Twitter: [@bread_thief](https://twitter.com/bread_thief)
 - 💼 LinkedIn: [bread-thief](https://www.linkedin.com/in/bread-thief)
 
