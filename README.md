@@ -1,47 +1,49 @@
-# Hi, I'm bread-thief! 👋
+# Привет, я bread-thief! 👋
 
 🍞 | 🥖 | 🍕
 
-I'm a passionate developer who loves to code and share my projects with the world. My nickname `bread-thief` reflects my love for bread and programming - I'm always ready to "steal" some inspiration to create something new and delicious!
+Я страстный разработчик, который любит программировать и делиться своими проектами с миром. Мой никнейм `bread-thief` отражает мою любовь к хлебу и программированию — я всегда готов "украсть" немного вдохновения, чтобы создать что-то новое и вкусное!
 
-## About me
+## Обо мне
 
-- 🌍 Based in Russia
-- 💻 Main languages: Python, JavaScript, C++
-- 🔭 Learning: Rust, Go
-- 🎯 Goal: Create useful and interesting projects
+- 🌍 Базируюсь в России
+- 💻 Основные языки: Python, JavaScript, C++
+- 🔭 Изучаю: Rust, Go
+- 🎯 Цель: Создавать полезные и интересные проекты
 
-## My projects
+## Мои проекты
 
-Here are some of my projects that might interest you:
+Вот некоторые из моих проектов, которые могут вас заинтересовать:
 
-| Project name | Description | Link |
+| Название проекта | Описание | Ссылка |
 |-------------------|----------|--------|
-| AwesomeApp | Task management app | [Link](https://github.com/bread-thief/AwesomeApp) |
-| DataAnalyzer | Data analysis tool | [Link](https://github.com/bread-thief/DataAnalyzer) |
-| WebScraper | Web scraping utility | [Link](https://github.com/bread-thief/WebScraper) |
+| AwesomeApp        | Приложение для управления задачами | [Ссылка](https://github.com/bread-thief/AwesomeApp) |
+| DataAnalyzer      | Инструмент для анализа данных | [Ссылка](https://github.com/bread-thief/DataAnalyzer) |
+| WebScraper        | Утилита для веб-скрейпинга | [Ссылка](https://github.com/bread-thief/WebScraper) |
 
-## How to contact me
+## Как со мной связаться
 
-You can find me here:
+Вы можете найти меня здесь:
 
 - 📧 Email: bread-thief@example.com
 - 🐦 Twitter: [@bread_thief](https://twitter.com/bread_thief)
 - 💼 LinkedIn: [bread-thief](https://www.linkedin.com/in/bread-thief)
 
-## Stats
+## Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bread-thief&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=bread-thief&show_icons=true&theme=radical)
 
-## Technologies and tools
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bread-thief&layout=compact&theme=radical)
 
-Here are some of the technologies and tools I work with:
+## Технологии и инструменты
 
-- Programming languages: Python, JavaScript, C++, Rust
-- Frameworks: Django, React, Node.js
-- Databases: PostgreSQL, MongoDB
-- Tools: Docker, Git, VS Code
+Вот некоторые из технологий и инструментов, с которыми я работаю:
 
-Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions.
+- Языки программирования: Python, JavaScript, C++, Rust
+- Фреймворки: Django, React, Node.js
+- Базы данных: PostgreSQL, MongoDB
+- Инструменты: Docker, Git, VS Code
+
+Спасибо за посещение моего профиля! Не стесняйтесь изучать мои репозитории и связываться со мной, если у вас есть вопросы или предложения.
 
 🍞 Happy Coding! 🍞
