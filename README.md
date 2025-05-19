@@ -4,7 +4,7 @@
 <h2>
 <div align="center">
     <span style="display: inline-block; transform: scaleX(-1);">👋</span>
-    <span style="color: #FFD700;">Hi, I'm <a href="https://github.com/bread-thief" target="_blank">Bread Thief!</a> 👋</span>
+    <span style="color: #FFD700;">Hi, I'm <a href="https://github.com/bread-thief" target="_blank">Bread Thief!</a> 🌟</span>
 </div>
 </h2>
 
