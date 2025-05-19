@@ -8,7 +8,7 @@
 </h2>
 
 <div align="center">
-    I'm a passionate developer who loves to code and share my projects with the world. My nickname `bread-thief` reflects my love for bread and programming - I'm always ready to "steal" some inspiration to create something new and delicious! 🍕🍔🍟
+    🥖 I'm a passionate developer who loves to code and share my projects with the world. My nickname `bread-thief` reflects my love for bread and programming - I'm always ready to "steal" some inspiration to create something new and delicious! 🥖
 </div>
 
 ## <div align="center"><span style="color: #FFD700;">My Projects</span></div>
