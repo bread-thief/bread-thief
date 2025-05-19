@@ -10,7 +10,7 @@ Here are some of my projects that you might be interested in:
 
 | Project Name | Description | Link |
 |----------|----------|--------|
-| Mistral AI Unity Plugin (Unofficial) | This is an unofficial plugin for Unity that allows you to quickly set up integration with the Mistral AI API. All you need is to specify the API Key and URL, without installing additional components or complex settings. | [Link]([https://github.com/bread-thief/AwesomeApp](https://github.com/bread-thief/Mistral-AI-Unity-Plugin-Unofficial)) |
+| Mistral AI Unity Plugin (Unofficial) | This is an unofficial plugin for Unity that allows you to quickly set up integration with the Mistral AI API. All you need is to specify the API Key and URL, without installing additional components or complex settings. | [Link](https://github.com/bread-thief/Mistral-AI-Unity-Plugin-Unofficial) |
 
 ## <span style="color: #F5DEB3;">How to Contact Me</span>
 
