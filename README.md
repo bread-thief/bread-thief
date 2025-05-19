@@ -33,7 +33,7 @@
 <div align="center">
 
 <a href="mailto:bread.thief.dev@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8fC5j6E21RsQI61vegNGc87Cjgg6clECPTJuizq9E1RkNwa5IPTrs5YnOIEv0S28p1Q&usqp=CAU)" width="40" height="40" alt="Gmail"/>
+    <img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Bread_Thief_dev" target="_blank">
