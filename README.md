@@ -35,7 +35,7 @@
 <a href="mailto:bread.thief.dev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=256&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://twitter.com/Bread_Thief_dev" target="_blank">
     <img src="https://img.icons8.com/?size=256&id=phOKFKYpe00C&format=png" width="40" height="40" alt="Twitter"/>
 </a>
