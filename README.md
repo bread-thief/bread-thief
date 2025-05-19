@@ -17,8 +17,7 @@ Here are some of my projects that you might be interested in:
 You can find me here:
 
 - 📧 Email: bread.thief.dev@gmail.com
-- 🐦 Twitter: [@bread_thief](https://twitter.com/bread_thief)
-- 💼 LinkedIn: [bread-thief](https://www.linkedin.com/in/bread-thief)
+- 🐦 Twitter: [@bread_thief](https://twitter.com/Bread_Thief_dev)
 
 ## <span style="color: #8B4513;">Stats</span>
 
