@@ -3,7 +3,7 @@
 </div>
 <h2>
 <div align="center">
-    #<span style="color: #FFD700;">Hi, I'm <a href="https://github.com/bread-thief" target="_blank">Bread Thief!</a> 👋</span>
+    <span style="color: #FFD700;">Hi, I'm <a href="https://github.com/bread-thief" target="_blank">Bread Thief!</a> 👋🌟</span>
 </div>
 </h2>
 
@@ -11,13 +11,13 @@
     <span style="color: #F5DEB3;">🍞</span> | <span style="color: #8B4513;">🥖</span> | <span style="color: #5D4037;">🫓</span>
 </div>
 <div align="center">
-    I'm a passionate developer who loves to code and share my projects with the world. My nickname `bread-thief` reflects my love for bread and programming - I'm always ready to "steal" some inspiration to create something new and delicious!
+    I'm a passionate developer who loves to code and share my projects with the world. My nickname `bread-thief` reflects my love for bread and programming - I'm always ready to "steal" some inspiration to create something new and delicious! 🍕🍔🍟
 </div>
 
 ## <div align="center"><span style="color: #FFD700;">My Projects</span></div>
 
 <div align="center">
-    Here are some of my projects that you might be interested in:
+    Here are some of my projects that you might be interested in: 🚀
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 ## <div align="center"><span style="color: #F5DEB3;">How to Contact Me</span></div>
 
 <div align="center">
-    You can find me here:
+    You can find me here: 📍
 </div>
 <div align="center">
 
@@ -78,8 +78,8 @@
 </div>
 
 <div align="center">
-    Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions.
+    Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions. 🌈
 </div>
 <div align="center">
-    <span style="color: #D2B48C;">🍞 Happy Coding! 🍞</span>
+    <span style="color: #D2B48C;">🍞 Happy Coding! 🍞🎉</span>
 </div>
