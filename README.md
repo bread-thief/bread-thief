@@ -33,7 +33,7 @@
 <div align="center">
 
 <a href="mailto:bread.thief.dev@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/mail-plain.svg" width="40" height="40" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-plain.svg" width="40" height="40" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Bread_Thief_dev" target="_blank">
