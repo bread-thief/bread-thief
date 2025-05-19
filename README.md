@@ -73,7 +73,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> &nbsp;
 </div>
-
+&nbsp
+&nbsp
 <div align="center">
     🫓 Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions. 🫓
 </div>
