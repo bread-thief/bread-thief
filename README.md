@@ -1,4 +1,4 @@
-# <span style="color: #FFD700;">Привет, я bread-thief! 👋</span>
+# <span style="color: #FFD700;">Привет, я [Bread Thief](@bread_thief)! 👋</span>
 
 <span style="color: #F5DEB3;">🍞</span> | <span style="color: #8B4513;">🥖</span> | <span style="color: #5D4037;">🍕</span>
 
