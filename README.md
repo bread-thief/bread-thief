@@ -1,43 +1,34 @@
-# <span style="color: #FFD700;">Привет, я [Bread Thief]("https://github.com/bread-thief")! 👋</span>
+# <span style="color: #FFD700;">Hi, I'm Bread Thief! 👋</span>
 
-<span style="color: #F5DEB3;">🍞</span> | <span style="color: #8B4513;">🥖</span> | <span style="color: #5D4037;">🍕</span>
+<span style="color: #F5DEB3;">🍞</span> | <span style="color: #8B4513;">🥖</span> | <span style="color: #5D4037;">🫓</span>
 
-Я страстный разработчик, который любит программировать и делиться своими проектами с миром. Мой никнейм `bread-thief` отражает мою любовь к хлебу и программированию — я всегда готов "украсть" немного вдохновения, чтобы создать что-то новое и вкусное!
+I'm a passionate developer who loves to code and share my projects with the world. My nickname `bread-thief` reflects my love for bread and programming - I'm always ready to "steal" some inspiration to create something new and delicious!
 
-## <span style="color: #D2B48C;">Обо мне</span>
+## <span style="color: #FFD700;">My Projects</span>
 
-- 🌍 Базируюсь в России
-- 💻 Основные языки: Python, JavaScript, C++
-- 🔭 Изучаю: Rust, Go
-- 🎯 Цель: Создавать полезные и интересные проекты
+Here are some of my projects that you might be interested in:
 
-## <span style="color: #FFD700;">Мои проекты</span>
+| Project Name | Description | Link |
+|----------|----------|--------|
+| Mistral AI Unity Plugin (Unofficial) | This is an unofficial plugin for Unity that allows you to quickly set up integration with the Mistral AI API. All you need is to specify the API Key and URL, without installing additional components or complex settings. | [Link]([https://github.com/bread-thief/AwesomeApp](https://github.com/bread-thief/Mistral-AI-Unity-Plugin-Unofficial)) |
 
-Вот некоторые из моих проектов, которые могут вас заинтересовать:
+## <span style="color: #F5DEB3;">How to Contact Me</span>
 
-| Название проекта | Описание | Ссылка |
-|-------------------|----------|--------|
-| AwesomeApp        | Приложение для управления задачами | [Ссылка](https://github.com/bread-thief/AwesomeApp) |
-| DataAnalyzer      | Инструмент для анализа данных | [Ссылка](https://github.com/bread-thief/DataAnalyzer) |
-| WebScraper        | Утилита для веб-скрейпинга | [Ссылка](https://github.com/bread-thief/WebScraper) |
-
-## <span style="color: #F5DEB3;">Как со мной связаться</span>
-
-Вы можете найти меня здесь:
+You can find me here:
 
 - 📧 Email: bread-thief@example.com
 - 🐦 Twitter: [@bread_thief](https://twitter.com/bread_thief)
 - 💼 LinkedIn: [bread-thief](https://www.linkedin.com/in/bread-thief)
 
-## <span style="color: #8B4513;">Статистика</span>
+## <span style="color: #8B4513;">Stats</span>
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=bread-thief&show_icons=true&bg_color=000000&text_color=FF8400&title_color=FF8400&icon_color=F5DEB3)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=bread-thief&show_icons=true&bg_color=000000&text_color=FF8400&title_color=FF8400&icon_color=F5DEB3)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bread-thief&layout=compact&bg_color=000000&text_color=FF8400&title_color=FF8400)
 
-## <span style="color: #5D4037;">Технологии и инструменты</span>
+## <span style="color: #5D4037;">Technologies and tools</span>
 
-### Языки программирования
+### Programming languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -47,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 
-### Инструменты
+### Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -56,6 +47,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 
-Спасибо за посещение моего профиля! Не стесняйтесь изучать мои репозитории и связываться со мной, если у вас есть вопросы или предложения.
+Thanks for visiting my profile! Feel free to explore my repos and contact me if you have any questions or suggestions.
 
 <span style="color: #D2B48C;">🍞 Happy Coding! 🍞</span>
