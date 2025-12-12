@@ -22,6 +22,7 @@
 | Project Name | Description | Link |
 |----------|----------|--------|
 | Mistral AI Unity Plugin (Unofficial) | This is an unofficial plugin for Unity that allows you to quickly set up integration with the Mistral AI API. All you need is to specify the API Key and URL, without installing additional components or complex settings. | [Link](https://github.com/bread-thief/Mistral-AI-Unity-Plugin-Unofficial) |
+| Hierarchy Selector | Customize Unity hierarchy view with colors, icons, badges, gradients and text formatting for better scene organization. | [Link](https://github.com/bread-thief/hierarchy-selector) |
 
 </div>
 
